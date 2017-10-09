@@ -1,9 +1,6 @@
 package com.durui.util;
 
-/**
- * æ¸¸æˆå·¥å…·
- * 
- */
+
 import java.awt.Image;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
@@ -12,7 +9,7 @@ import java.net.URL;
 import javax.imageio.ImageIO;
 
 /**
- * ï¿½ï¿½Ï·ï¿½ï¿½ï¿½ï¿½ï¿½Ğ³ï¿½ï¿½ÃµÄ¹ï¿½ï¿½ï¿½ï¿½à£¨ï¿½ï¿½ï¿½ï¿½ï¿½Í¼Æ¬ï¿½È£ï¿½
+ * ÓÎÏ·¿ª·¢ÖĞ³£ÓÃµÄ¹¤¾ßÀà£¨Èç¼ÓÔØÍ¼Æ¬µÈ£©
  * @author Administrator
  *
  */
@@ -20,7 +17,7 @@ public class GameUtil {
 	
 	private GameUtil(){
 		
-	} //ï¿½ï¿½ï¿½ì·½ï¿½ï¿½Ë½ï¿½Ğ£ï¿½ï¿½Ş·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½à£»
+	} //¹¹Ôì·½·¨Ë½ÓĞ£¬ÎŞ·¨´´½¨ÀàµÄ¶ÔÏó»òÕß×ÓÀà£»
 
 	public	static Image getImage(String path){
 		URL u = GameUtil.class.getClassLoader().getResource(path);
