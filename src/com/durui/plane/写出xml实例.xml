@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Restaurant SYSTEM "restaurant.dtd">
+<Restaurant>
+	<Information>
+		<Name>杜瑞沙县小吃</Name>
+		<Address>北京仙林大街</Address>
+		<Description>好吃到Cry的中餐馆</Description>
+	</Information>
+	
+	<Menu>
+		<Meat>
+			<Beef>
+				<Dish>
+					<Name>酒香牛肉</Name>
+					<Price>￥500</Price>
+					<Description>喷香的牛肉，秘制的酱料，在酒精中来一次勇敢的碰撞吧！</Description>
+				</Dish>
+			</Beef>
+			<Pork>
+				<Dish>
+					<Name>脆骨猪肉</Name>
+					<Price>￥500</Price>
+					<Description>很少有人这么尝试了，一般人看到猪都只看到了肉，我们却可以发现那800斤身躯下不屈的灵魂--那充满艺术与生命力的骨骼，相信我，这是一次升华。</Description>
+				</Dish>
+				<Dish>
+					<Name>Biang~</Name>
+					<Price>￥10000</Price>
+					<Description>这是本店唯一一道以拼音命名的菜，它值得一万元的价钱：为了在一千万头猪里面选出合格的食料，我们特地举行了一场“Biang~Biang”比赛，据说获胜的猪小肠可以容纳几十升的气体。</Description>
+				</Dish>
+			</Pork>
+			<Chicken>
+				<Dish>
+					<Name>白鹭</Name>
+					<Price>￥9000</Price>
+					<Description>不是说入菜的鸡长得很像白鹭，也不是说它优雅的趋近于白鹭的身材，而是，这真的是一只白鹭。为了让您欣赏到二级野生动物的温柔，我们不会让您看到一片辣椒叶子，您可能会随着菜一起起舞。</Description>
+				</Dish>
+			</Chicken>
+		</Meat>
+		<Seafood>
+			<Fish>
+				<Dish>
+					<Name>深海炸弹</Name>
+					<Price>￥200</Price>
+					<Description>潜水艇炸鱼的时候没有爆炸的一枚炮弹，它有深海的气息，再加上我们厨师的精心烹饪，它含苞欲放。</Description>
+				</Dish>
+			</Fish>
+			<Shellfish>
+				<Dish>
+					<Name>诸葛烤鱼</Name>
+					<Price>￥100000</Price>
+					<Description>为了做成这道菜，我们掀开了诸葛的棺材，哦，掀了三次。</Description>
+				</Dish>
+			</Shellfish>
+		</Seafood>
+	</Menu>
+</Restaurant>
