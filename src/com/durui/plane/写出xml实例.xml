@@ -2,7 +2,7 @@
 <!DOCTYPE Restaurant SYSTEM "restaurant.dtd">
 <Restaurant>
 	<Information>
-		<Name>杜瑞沙县小吃</Name>
+		<Name>杜瑞小吃</Name>
 		<Address>北京仙林大街</Address>
 		<Description>好吃到Cry的中餐馆</Description>
 	</Information>
