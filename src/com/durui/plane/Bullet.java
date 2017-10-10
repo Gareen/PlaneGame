@@ -6,7 +6,11 @@ import java.awt.Image;
 
 import com.durui.util.Constant;
 import com.durui.util.GameUtil;
-
+/**
+ * 子弹轨迹
+ * @author Administrator
+ *
+ */
 public class Bullet extends GameObject{
 
 	
